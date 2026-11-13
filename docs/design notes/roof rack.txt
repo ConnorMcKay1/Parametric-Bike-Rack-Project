@@ -1,0 +1,35 @@
+Driver, Passenger, Center --> 3 X 1-1/2 X 1/8 ALUM RectTube 12'
+	Joseph Fazzio (Howell, NJ)
+
+Handle Bar Ubolts (handles are 1.25 in. diameter)-->
+
+
+
+
+Seat Ubolts (needs to be able to secure 2x2 in. of the nose of the seat)-->
+	Rubber-Cushioned U-Bolt 304 Stainless Steel, 1/2"-13 Thread Size, 3-9/16" ID
+	McMaster-Carr: https://www.mcmaster.com/30555T46/
+
+	
+	1/2" X 3" X 8-3/8" Round Bend U-Bolt With Plate, (4) Nuts, & (2) Washers Hot Dipped Galvanized
+	3/8" X 3-1/2" X 4-1/8" Round Bend U-Bolt With Plate & Nuts Zinc Plated
+	BOTH FROM FAZZIO: https://www.shopjfi.com/industrial-supplies/hardware/u-bolts/round-bend-u-bolts.html?			 product_list_limit=120
+
+
+Tbolt --> 20mm x 20mm (head) 4mm (head thickness), M6 or M8 --> [M6 X 65mm, 4 Count]
+	Amazon: https://www.amazon.com/dp/B0B944FWCY?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1
+
+	M6 = 6mm or .236 inch
+	M8 = 8mm or .315 inch
+	30mm = 1.1811 inch
+	35mm = 1.37795 inch
+	65mm = 2.55906 inch
+
+
+
+10/10/26 - new dimension for rear tie down hole on center and driver/passenger bar:
+		-center: 9-13/16in (from rear to hole)
+		-driver/passenger: 5-13/16in (from rear to hole)
+
+
+
