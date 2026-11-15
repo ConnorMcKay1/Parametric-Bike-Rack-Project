@@ -1,5 +1,8 @@
-# Documentation Under Construction . . .
-<p>
+<h3 align="center">
+  Documentation Under Construction . . .
+</h3>
+
+<p align="center">
   documentation is under construction, continue to navigate docs & models to view renders, files, and design notes.
 </p>
 
