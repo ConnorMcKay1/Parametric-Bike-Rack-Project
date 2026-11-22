@@ -12,67 +12,53 @@
 
 
 
-Parametric-Bike-Rack-Project/
-│
-├── README.md
-│
-├── docs/                             # Documentation & engineering record
-│   │
-│   ├── design notes/                 # Dimensions & design decisions
-│   │   ├── Center_Bar_Dimensions.dxf
-│   │   ├── Driver-Passenger_Bar_Dimensions.dxf
-│   │   ├── TBolt_Dimensions.dxf
-│   │   └── roof rack.txt
-│   │
-│   ├── images/                       # Visual documentation
-│   │   ├── dimensions/               # CAD dimension screenshots
-│   │   ├── renders/                  # CAD renders & FEA visuals
-│   │   └── sketches/                 # Initial concepts & hand sketches
-│   │
-│   ├── journal/                      # Development history
-│   │   ├── journal images/
-│   │   ├── 2026-06-28-material-properties-test.md
-│   │   ├── 2026-11-17-update.md
-│   │   └── 2026-11-21-scripting-workflow.md
-│   │
-│   ├── research/                     # Technical research
-│   │   └── CAD-kernels.md
-│   │
-│   └── simulations/                  # Engineering simulation
-│       ├── FEM/                      # Finite Element Method
-│       │   └── structural-simulation.md
-│       │
-│       └── FVM/                      # Finite Volume Method
-│           └── aerodynamic-simulation.md
-│
-└── models/                           # CAD & computational models
-    │
-    ├── Roof-Rack_Bike-Rack-V3.FCStd  # Primary CAD assembly
-    │
-    ├── bike rack u-bolts/            # Custom mounting components
-    │   ├── *.FCStd
-    │   ├── *.STEP
-    │   └── *.FCBak
-    │
-    ├── *.FCStd                        # FreeCAD models
-    ├── *.STEP                         # CAD interchange
-    ├── *.DXF                          # Dimension drawings
-    └── *.PMX                          # PrePoMax simulation models
-
 
 
 ## Project Index
 
-├── [docs/](./docs/)  
-│   ├── [design notes/](./docs/design%20notes/)  
-│   ├── [images/](./docs/images/)  
-│   │   ├── [dimensions/](./docs/images/dimensions/)  
-│   │   ├── [renders/](./docs/images/renders/)  
-│   │   └── [sketches/](./docs/images/sketches/)  
-│   ├── [journal/](./docs/journal/)  
-│   ├── [research/](./docs/research/)  
-│   └── [simulations/](./docs/simulations/)  
-│       ├── [FEM/](./docs/simulations/FEM/)  
-│       └── [FVM/](./docs/simulations/FVM/)  
+[Parametric-Bike-Rack-Project/](./)
 
-└── [models/](./models/)
+├── [README.md](./README.md)
+
+├── [docs/](./docs/)  — Documentation & engineering record  
+│   │
+│   ├── [design notes/](./docs/design%20notes/)  — Dimensions & design decisions  
+│   │   ├── [Center_Bar_Dimensions.dxf](./docs/design%20notes/Center_Bar_Dimensions.dxf)  
+│   │   ├── [Driver-Passenger_Bar_Dimensions.dxf](./docs/design%20notes/Driver-Passenger_Bar_Dimensions.dxf)  
+│   │   ├── [TBolt_Dimensions.dxf](./docs/design%20notes/TBolt_Dimensions.dxf)  
+│   │   └── [roof rack.txt](./docs/design%20notes/roof%20rack.txt)  
+│   │
+│   ├── [images/](./docs/images/)  — Visual documentation  
+│   │   ├── [dimensions/](./docs/images/dimensions/)  — CAD dimension screenshots  
+│   │   ├── [renders/](./docs/images/renders/)  — CAD renders & FEA visuals  
+│   │   └── [sketches/](./docs/images/sketches/)  — Initial concepts & hand sketches  
+│   │
+│   ├── [journal/](./docs/journal/)  — Development history  
+│   │   ├── [journal images/](./docs/journal/journal%20images/)  
+│   │   ├── [2026-06-28-material-properties-test.md](./docs/journal/2026-06-28-material-properties-test.md)  
+│   │   ├── [2026-11-17-update.md](./docs/journal/2026-11-17-update.md)  
+│   │   └── [2026-11-21-scripting-workflow.md](./docs/journal/2026-11-21-scripting-workflow.md)  
+│   │
+│   ├── [research/](./docs/research/)  — Technical research  
+│   │   └── [CAD-kernels.md](./docs/research/CAD-kernels.md)  
+│   │
+│   └── [simulations/](./docs/simulations/)  — Engineering simulation  
+│       ├── [FEM/](./docs/simulations/FEM/)  — Finite Element Method  
+│       │   └── [structural-simulation.md](./docs/simulations/FEM/structural-simulation.md)  
+│       │
+│       └── [FVM/](./docs/simulations/FVM/)  — Finite Volume Method  
+│           └── [aerodynamic-simulation.md](./docs/simulations/FVM/aerodynamic-simulation.md)  
+│
+└── [models/](./models/)  — CAD & computational models  
+    │
+    ├── [Roof-Rack_Bike-Rack-V3.FCStd](./models/Roof-Rack_Bike-Rack-V3.FCStd)  — Primary CAD assembly  
+    │
+    ├── [bike rack u-bolts/](./models/bike%20rack%20%20u-bolts/)  — Custom mounting components  
+    │   ├── *.FCStd  
+    │   ├── *.STEP  
+    │   └── *.FCBak  
+    │
+    ├── *.FCStd  — FreeCAD models  
+    ├── *.STEP  — CAD interchange  
+    ├── *.DXF  — Dimension drawings  
+    └── *.PMX  — PrePoMax simulation models  
