@@ -58,3 +58,21 @@ Parametric-Bike-Rack-Project/
     ├── *.STEP                         # CAD interchange
     ├── *.DXF                          # Dimension drawings
     └── *.PMX                          # PrePoMax simulation models
+
+
+
+## Project Index
+
+├── [docs/](./docs/)  
+│   ├── [design notes/](./docs/design%20notes/)  
+│   ├── [images/](./docs/images/)  
+│   │   ├── [dimensions/](./docs/images/dimensions/)  
+│   │   ├── [renders/](./docs/images/renders/)  
+│   │   └── [sketches/](./docs/images/sketches/)  
+│   ├── [journal/](./docs/journal/)  
+│   ├── [research/](./docs/research/)  
+│   └── [simulations/](./docs/simulations/)  
+│       ├── [FEM/](./docs/simulations/FEM/)  
+│       └── [FVM/](./docs/simulations/FVM/)  
+
+└── [models/](./models/)
