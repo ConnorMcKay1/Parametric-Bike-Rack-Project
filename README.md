@@ -11,6 +11,22 @@
 </p>
 
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/dimensions/Center_Bar_Dimensions(2).png" width="450">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/renders/isometric_perspective004.png" width="450">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/renders/isometric_perspective008.png" width="450">
+    </td>
+  </tr>
+</table>
+
+
 ## Bike Rack Project Index
 
 Bellow is a file tree where each leaf directs to the respective file or repository defined.  
