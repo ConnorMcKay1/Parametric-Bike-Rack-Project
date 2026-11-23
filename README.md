@@ -7,9 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/renders/materialsTest-assemblyGIF-quality.gif" width="600">
+  <img src="docs/images/renders/materialsTest-assemblyGIF-quality.gif" width="500">
 </p>
 
+<br>
+<br>
+<br>
 
 
 <table>
