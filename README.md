@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/renders/materialsTest-assemblyGIF-quality.gif" width="500">
+  <img src="docs/images/renders/materialsTest-assemblyGIF-quality.gif" width="400">
 </p>
 
 <br>
