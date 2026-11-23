@@ -18,13 +18,13 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/dimensions/Center_Bar_Dimensions(2).png" height="310" width="600">
+      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/dimensions/Center_Bar_Dimensions(2).png" height="300" width="600">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/renders/isometric_perspective004.png" height="310" width="600">
+      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/renders/isometric_perspective004.png" height="300" width="600">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/renders/isometric_perspective008.png" height="310" width="600">
+      <img src="https://raw.githubusercontent.com/ConnorMcKay1/Parametric-Bike-Rack-Project/main/docs/images/renders/isometric_perspective008.png" height="300" width="600">
     </td>
   </tr>
 </table>
