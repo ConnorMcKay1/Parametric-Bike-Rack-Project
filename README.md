@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  documentation is under construction, continue to navigate docs & models to view renders, files, and design notes.
+  documentation is under construction, continue to navigate docs & models to view renders, files, design notes and more.
 </p>
 
 <p align="center">
