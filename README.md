@@ -55,7 +55,7 @@ Bellow is a file tree where each leaf directs to the respective file or reposito
 │   │   ├── [2026-11-17-update.md](./docs/journal/2026-11-17-update.md)  
 │   │   └── [2026-11-21-scripting-workflow.md](./docs/journal/2026-11-21-scripting-workflow.md)  
 │   │   └── . . .  
-|   |  
+│   │  
 │   ├── [research/](./docs/research/)                                                                            # Technical research  
 │   │   └── [CAD-kernels.md](./docs/research/CAD-kernels.md)  
 │   │  
