@@ -77,5 +77,5 @@ Bellow is a file tree where each leaf directs to the respective file or reposito
     │  
     ├── *.FCStd  — FreeCAD models  
     ├── *.STEP  — CAD interchange  
-    ├── *.DXF  — Dimension drawings (QCAD) 
+    ├── *.DXF  — Dimension drawings (QCAD)  
     └── *.PMX  — PrePoMax simulation models  
